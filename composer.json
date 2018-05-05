@@ -13,8 +13,6 @@
     "require": {
 		"php":">=5.6"
 	},
-	"require-v": {
-	},
 	"autoload": {
     "psr-4": {
       "Flower\\Rose\\": "src/Flower/Rose",
