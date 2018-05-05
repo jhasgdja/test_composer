@@ -9,7 +9,6 @@
             "email": "jhasgdja@163.com"
         }
     ],
-    "minimum-stability": "master",
     "require": {
 		"php":">=5.6"
 	},
