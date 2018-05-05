@@ -2,14 +2,14 @@
     "name": "jhasgdja/tt_composer",
     "description": "test description",
     "type": "library",
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "jhasgdja",
             "email": "jhasgdja@163.com"
         }
     ],
-	"minimum-stability":"stable",
+	"minimum-stability":"dev",
     "require": {
 		"php":">=5.6"
 	},
