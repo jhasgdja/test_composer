@@ -9,8 +9,10 @@
             "email": "jhasgdja@163.com"
         }
     ],
-	"minimum-stability":"dev",
     "require": {
+		"php":">=5.6"
+	},
+	"require-v": {
 		"php":">=5.6"
 	},
 	"autoload": {
