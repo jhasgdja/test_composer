@@ -1,0 +1,14 @@
+{
+    "name": "test_composer/test_composer",
+    "description": "test description",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jhasgdja",
+            "email": "jhasgdja@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
